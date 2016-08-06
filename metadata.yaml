@@ -1,0 +1,39 @@
+_repo: The-Purple-Cloud_11229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shiel, M. P. (Matthew Phipps)
+    alias: Shiel, Matthew Phipps
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2292'
+    url: http://www.gutenberg.org/2009/agents/2292
+    wikipedia: http://en.wikipedia.org/wiki/M._P._Shiel
+description: "The Purple Cloud is a \"last man\" novel by the British writer M. P.\
+  \ Shiel. It was published in 1901. H.G. Wells lauded The Purple Cloud as \"brilliant\"\
+  \ and H. P. Lovecraft later praised the novel as exemplary weird fiction, \"delivered\
+  \ with a skill and artistry falling little short of actual majesty.\"\nThe novel\
+  \ formed the basis for the 1959 American film The World, the Flesh and the Devil.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11229'
+  wikidata: Q368566
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Natural disasters -- Fiction'
+- !lcsh 'Apocalyptic fantasies'
+- !lcc 'PR'
+- !lcsh 'End of the world -- Fiction'
+- GITenberg
+title: The Purple Cloud
+url: http://www.gutenberg.org/ebooks/11229
+wikipedia:
+- https://de.wikipedia.org/wiki/Die_purpurne_Wolke
+- https://en.wikipedia.org/wiki/The_Purple_Cloud
+- https://it.wikipedia.org/wiki/La_nube_purpurea
