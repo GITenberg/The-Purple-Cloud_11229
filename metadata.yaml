@@ -1,5 +1,8 @@
 _repo: The-Purple-Cloud_11229
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shiel, M. P. (Matthew Phipps)
@@ -15,6 +18,8 @@ description: "The Purple Cloud is a \"last man\" novel by the British writer M. 
   \ with a skill and artistry falling little short of actual majesty.\"\nThe novel\
   \ formed the basis for the 1959 American film The World, the Flesh and the Devil.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11229#The-Purple-Cloud
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
